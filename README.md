@@ -28,7 +28,7 @@ The Prism files can be found in the directory `src`. Data is present in the dire
 All files were generated on a Microsoft Windows 10 Operating System
 
 ## License
-This repository is licensed as [CC0 1.0] (https://github.com/SMUAbdullah/paper-Omicron-BA.2-outbreak-Hong-Kong/blob/master/LICENSE-CC0) (figures and documentation)
+This repository is licensed as [CC0 1.0](https://github.com/SMUAbdullah/paper-Omicron-BA.2-outbreak-Hong-Kong/blob/master/LICENSE-CC0) (figures and documentation)
 
 ## Feedback and troubleshooting
 
