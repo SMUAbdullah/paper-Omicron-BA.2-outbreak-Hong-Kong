@@ -18,7 +18,7 @@ Lin-Lei Chen<sup>1\*</sup>, Syed Muhammad Umer Abdullah<sup>1\*</sup>, Wan-Mui C
 
 ## Contents
 
-The Prism files can be found in the directory `src`. Data is present in the directory `data`. The figures are present in the directory `figures`.
+Data is present in the directory `data`. The data for each figure is present in the directory with the figure name.
 
 ## Required software
 
@@ -30,7 +30,7 @@ All files were generated on a Microsoft Windows 10 Operating System.
 
 ## License
 
-This repository is licensed as [CC0 1.0](https://github.com/SMUAbdullah/paper-Omicron-BA.2-outbreak-Hong-Kong/blob/main/LICENSE-CC0) (figures, source files, and documentation).
+This repository is licensed as [CC0 1.0](https://github.com/SMUAbdullah/paper-Omicron-BA.2-outbreak-Hong-Kong/blob/main/LICENSE-CC0) (data).
 
 ## Feedback and troubleshooting
 
