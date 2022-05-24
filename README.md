@@ -16,7 +16,7 @@ Lin-Lei Chen<sup>1\*</sup>, Syed Muhammad Umer Abdullah<sup>1\*</sup>, Wan-Mui C
 <sup>*</sup> Equal contribution  
 \#Corresponding author: E-mail: [kelvinto@hku.hk](mailto:kelvinto@hku.hk)  
 
-## Prism files
+## Contents
 
 The Prism files can be found in the directory `src`. Data is present in the directory `data`. The figures are present in the directory `figures`.
 
