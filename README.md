@@ -20,11 +20,11 @@ Lin-Lei Chen<sup>1\*</sup>, Syed Muhammad Umer Abdullah<sup>1\*</sup>, Wan-Mui C
 
 The Prism files can be found in the directory `src`. Data is present in the directory `data`. The figures are present in the directory `figures`.
 
-### Required software
+## Required software
 
 > [GraphPad Prism 9.1.1](https://www.graphpad.com/scientific-software/prism/) 
 
-### Operating system
+## Operating system
 
 All files were generated on a Microsoft Windows 10 Operating System
 
