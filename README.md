@@ -20,10 +20,6 @@ Lin-Lei Chen<sup>1\*</sup>, Syed Muhammad Umer Abdullah<sup>1\*</sup>, Wan-Mui C
 
 Data is present in the directory `data`. The data for each figure is present in the directory with the figure name.
 
-## Required software
-
-> [GraphPad Prism 9.1.1](https://www.graphpad.com/scientific-software/prism/) 
-
 ## Operating system
 
 All files were generated on a Microsoft Windows 10 Operating System.
