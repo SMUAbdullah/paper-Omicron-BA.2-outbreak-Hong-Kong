@@ -25,11 +25,17 @@ The Prism files can be found in the directory `src`. Data is present in the dire
 > [GraphPad Prism 9.1.1](https://www.graphpad.com/scientific-software/prism/) 
 
 ### Operating system
+
 All files were generated on a Microsoft Windows 10 Operating System
 
 ## License
+
 This repository is licensed as [CC0 1.0](https://github.com/SMUAbdullah/paper-Omicron-BA.2-outbreak-Hong-Kong/blob/main/LICENSE-CC0) (figures and documentation)
 
 ## Feedback and troubleshooting
 
 For queries or comments, please email at [kelvinto@hku.hk](mailto:kelvinto@hku.hk)
+
+## Citation
+
+Lin-Lei Chen, Syed Muhammad Umer Abdullah, Wan-Mui Chan et al. Contribution of low population immunity to the severe Omicron BA.2 outbreak in Hong Kong, 07 April 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1512533/v1]
