@@ -8,17 +8,11 @@ Lin-Lei Chen<sup>1\*</sup>, Syed Muhammad Umer Abdullah<sup>1\*</sup>, Wan-Mui C
 <sup>1</sup> State Key Laboratory for Emerging Infectious Diseases, Carol Yu Centre for Infection, Department of Microbiology, School of Clinical Medicine, Li Ka Shing Faculty of Medicine, Pokfulam, The University of Hong Kong, Hong Kong Special Administrative Region, China.  
 <sup>2</sup> Quality and Safety Division, Hospital Authority, Hong Kong Special Administrative Region, China.  
 <sup>3</sup> Centre for Health Protection, Department of Health, Hong Kong Special Administrative Region, China.  
-
 <sup>4</sup> Department of Microbiology, Queen Mary Hospital, Pokfulam, Hong Kong Special Administrative Region, China.  
-
 <sup>5</sup> Infection Control Team, Queen Mary Hospital, Hong Kong West Cluster, Hong Kong Special Administrative Region, China.  
-
 <sup>6</sup> Department of Clinical Microbiology and Infection Control, The University of Hong Kong Shenzhen Hospital, Shenzhen, China.  
-
 <sup>7</sup> Centre for Virology, Vaccinology and Therapeutics, Hong Kong Science and Technology Park, Hong Kong Special Administrative Region, China.  
-
 <sup>8</sup> Department of Medicine, School of Clinical Medicine, Li Ka Shing Faculty of Medicine, Pokfulam, The University of Hong Kong, Hong Kong Special Administrative Region, China.  
- 
 <sup>*</sup> Equal contribution  
 \#Corresponding author: E-mail: [kelvinto@hku.hk](mailto:kelvinto@hku.hk)  
 
