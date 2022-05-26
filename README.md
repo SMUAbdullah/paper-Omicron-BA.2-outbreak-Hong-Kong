@@ -18,7 +18,7 @@ Lin-Lei Chen<sup>1\*</sup>, Syed Muhammad Umer Abdullah<sup>1\*</sup>, Wan-Mui C
 
 ## Contents
 
-Data is present in the directory `data`. The data for each figure is present in the directory with the figure name.
+Data is present in the directory `data`. Figures are embedded in the corresponding data file.
 
 ## Operating system
 
