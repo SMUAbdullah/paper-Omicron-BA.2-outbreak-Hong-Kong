@@ -33,5 +33,4 @@ This repository is licensed as [CC0 1.0](https://github.com/SMUAbdullah/paper-Om
 For queries or comments, please email at [kelvinto@hku.hk](mailto:kelvinto@hku.hk)
 
 ## Citation
-
-Lin-Lei Chen, Syed Muhammad Umer Abdullah, Wan-Mui Chan et al. Contribution of low population immunity to the severe Omicron BA.2 outbreak in Hong Kong, 07 April 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1512533/v1]
+Chen, LL., Abdullah, S.M.U., Chan, WM. et al. Contribution of low population immunity to the severe Omicron BA.2 outbreak in Hong Kong. Nat Commun 13, 3618 (2022). [https://doi.org/10.1038/s41467-022-31395-0]
